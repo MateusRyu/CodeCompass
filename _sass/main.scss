@@ -1,0 +1,6 @@
+@use "color";
+
+body {
+  background-color: color.$primary-9;
+  color: color.$neutral-3;
+}
